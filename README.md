@@ -1,8 +1,6 @@
-# esp-trainer
-pygame
 
-ESP-Trainer
-
+<h1><div align="center">ESP-Trainer</div></h1>
+  <h3><div align="center">pygame</div></h2>
 python version of Russell Targ's esp trainer application for ios
 
 The ESP trainer was developed under a NASA program by Russell Targ at Stanford Research Institute.
@@ -21,6 +19,6 @@ In a year long NASA program with 145 subjects (under Contract 953653 NAS7-100) m
 
 Because you are learning a new skill, slower is better than faster.
 
-If you find yourself frequently scoring 12 or more, write to the developer: Contact Russell Targ
+If you find yourself frequently scoring 12, write to the original developer: Contact Russell Targ https://espresearch.com/russells-contact-form/
 
 This game can provide the first steps toward experiencing and developing the psychic abilities hidden within us all.
