@@ -22,14 +22,15 @@ In a year long NASA program with 145 subjects (under Contract 953653 NAS7-100) m
 their scores. Four of the subjects improved their scores at the hundred-to-one level or better. This approach has been
 used with surprising success on Wall Street. But of course, past results are no guarantee of future performance.
 Because you are learning a new skill, slower is better than faster.
-If you find yourself frequently scoring 12 or more, write to the developer: Contact Russell Targ
+If you find yourself frequently scoring 12, write to the original developer Russell Targ:
+                                                                             Contact Russell Targ @: https://espresearch.com/russells-contact-form/
 This game can provide the first steps toward experiencing and developing the psychic abilities hidden within us all.
 """
 
 
-# TODO: score
+# TODO: score blocks logic!!!
 # TODO: get score image
-# TODO:  score logic + reset loop line-113
+# TODO: reset loop line-113
 # TODO:  cleanup code!
 
 
@@ -296,7 +297,7 @@ while game_loop():
                 score += 1
                 attempts += 1
                 score_progress_bar()
-                print('if number 1'' \n ''score = {}' ' \n ' 'color = {}'.format(score, getcolor))
+                print('score = {}' ' \n ' 'color = {}'.format(score, getcolor))
                 break
 
             if 230 + 100 > pos()[0] > 230 and 140 + 100 > pos()[1] > 140 and getcolor is 'blue':
