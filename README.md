@@ -1,0 +1,2 @@
+# esp-trainer
+pygame
